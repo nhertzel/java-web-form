@@ -1,2 +1,2 @@
 # java-web-form
-/** ∈ Java Project e ligação a base de dados do MySQL Workbench */
+/** ∈ Java web form project e ligação a base de dados MySQL Workbench */
