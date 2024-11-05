@@ -1,2 +1,2 @@
 # java-web-form
- Jornada particular de programação ∈ Java Project
+/** ∈ Java Project e ligação a base de dados do MySQL Workbench */
